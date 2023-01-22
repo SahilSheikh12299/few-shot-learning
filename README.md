@@ -4,7 +4,7 @@ Computer vision project for few shot learning using Siamese Networks using Pytor
 The images should be placed inside the data/faces/training/{person_name} for training and data/faces/testing/{person_name} for testing purposes.
 
 If you are running without a pretrained model, run
-'''html
+'''zsh
 python main.py
 '''
 
